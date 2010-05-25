@@ -1,0 +1,8 @@
+h1. Graph database domain models for "Neo4j":http://neo4j.org/
+
+Small examples of how to model different domains using a graph database.
+More examples are found in the "Neo4j wiki":http://wiki.neo4j.org/content/Domain_Modeling_Gallery
+
+h2. News analysis
+
+!http://github.com/neo4j-examples/domain-models/raw/master/news-analysis.png!
